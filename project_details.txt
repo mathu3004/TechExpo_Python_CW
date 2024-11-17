@@ -1,0 +1,33 @@
+
+*********** AI Projects ***********
+
+---Project Details---
+Project ID: 3
+Project Name: Tfg
+Category: AI
+Team Members: Tfgy, Rw, Ewa
+Brief Description: Ew
+Country: Sdwe
+
+---Project Details---
+Project ID: 10
+Project Name: Ghj
+Category: AI
+Team Members: Ftg, Gy, Ug
+Brief Description: Gy
+Country: Ug
+
+
+*********** RT Projects ***********
+
+---Project Details---
+Project ID: 9
+Project Name: Tg
+Category: RT
+Team Members: Fgh, Tfgy, Ug
+Brief Description: Ug
+Country: Dv
+
+
+*********** ML Projects ***********
+
